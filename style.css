@@ -1,0 +1,30 @@
+h1{
+	text-align: center;
+	background-color: #9ACD32;
+	font-family:"Arial Black",Gadget,sans-serif;
+	margin-top: 10px;
+	margin-bottom: 80px;
+    margin-right: 100px;
+    margin-left: 50px;
+}
+h2{
+	font-family:"Arial Black",Gadget,sans-serif;
+	color: #000080;
+}
+header{
+	background-color: rgba(0,1,0,.5);
+	font-style:"Arial Black",Gadget,sans-serif;
+	margin-top: 10px;
+    margin-bottom: 80px;
+    margin-right: 100px;
+    margin-left: 50px;
+}
+nav{
+	background-color: rgba(0,1,0,.5);
+}
+u{
+	background-color: #9ACD32;
+}
+
+
+
